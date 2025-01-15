@@ -1,0 +1,9 @@
+{
+  "giopera/python": {
+    "dir": "./giopera/python/",
+    "url": "https://github.com/giopera/python.git",
+    "refs": [
+      "refs/heads/master"
+    ]
+  }
+}
